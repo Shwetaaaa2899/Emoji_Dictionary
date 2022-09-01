@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,300;1,600;1,700&family=Roboto+Condensed:ital@1&family=Ubuntu:wght@500&display=swap");
+.App {
+  text-align: center;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 10px;
+  background-color: grey;
+}
+input {
+  padding: 1rem;
+
+  width: 90%;
+  border: 2px solid black;
+}
